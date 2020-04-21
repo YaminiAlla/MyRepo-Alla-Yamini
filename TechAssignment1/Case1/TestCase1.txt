@@ -1,0 +1,25 @@
+	Parsing the string and displaying in required format				
+					
+					
+TestCases for Case1					
+					
+Testcase No     Description            	Given Input 		Expected Output             	 Actual Output           Result
+
+1	Passing the character value	&			& Character  2		& Character  2			Pass
+
+2	Passing the integer value	-156			-156 Integer 4	   	-156 Integer 4			Pass
+
+3	Passing the float value		4.568			4.568 Float/double 4	4.568 Float/double 4		Pass
+
+4	Passing the String value	Sss			Sss String 3		Sss String 3			Pass
+
+5	Passing a random string 	-156 & Sss 4.568	-156 Integer 4		-156 Integer 4			Pass
+								& Character  2		& Character  2
+								Sss String 3		Sss String 3
+								4.568 Float/double 4	4.568 Float/double 4
+
+6	Passing a random string 	-32270 # Sandy .156	-32270 Integer 4	-32270 Integer 4		Pass
+								# Character  2		# Character  2
+								Sandy String 5		Sandy String 5
+								0.156 Float/double 4	0.156 Float/double 4
+		
