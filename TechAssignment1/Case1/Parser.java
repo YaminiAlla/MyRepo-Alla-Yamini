@@ -15,7 +15,7 @@ public class Parser {
 		// Displaying the program to the user.
 		if (args.length == 0) {
 			System.out.println(
-					"The description of the program is :\n\nThe program is used to find the datatype and size of the input\nNeed an input value to determine\ne.g. java Main 1 A Sss 0.15");
+					"The description of the program is :\n\nThe program is used to find the datatype and size of the input\nNeed an input value to determine\ne.g. java Parser 1 A Sss 0.15");
 		} else {
 			for (int n = 0; n < args.length; n++) {
 				// Retrieving the first character from the array elements
