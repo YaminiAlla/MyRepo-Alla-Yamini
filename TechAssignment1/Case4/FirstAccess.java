@@ -53,7 +53,7 @@ public class FirstAccess{ // main class
 	public static void main(String[] args) {
 		
 		//Displaying the program to user
-		System.out.println("Usage of the program\n The program is used to illustrate the access specifiers\n eg java Access ");
+		System.out.println("Usage of the program\n The program is used to illustrate the access specifiers\n eg java FirstAccess ");
 		
 		FirstAccess fa= new FirstAccess(); //creating object to class
 		
