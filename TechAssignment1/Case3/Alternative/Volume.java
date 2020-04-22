@@ -33,8 +33,8 @@ public class Volume { // main class
 			// loop level scope
 			for (int height = 5; height <= n; height++) {
 				int volume = (length * height * width) / 3; // calculate volume
-				System.out.println("Volume of pyramid : " + volume + " where height is " + height);// prints volume for
-																									// given height
+				System.out.println("Volume of pyramid : " + volume + " where height is " + height);// prints volume for given height
+				
 				/*
 				 * Volume.display(); System.out.print(Volume.width+" ");
 				 */
