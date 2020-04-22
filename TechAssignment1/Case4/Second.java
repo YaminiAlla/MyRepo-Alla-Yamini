@@ -8,6 +8,8 @@ import com.hcl.domino.techassign1.FirstAccess;
  */
 class Second extends FirstAccess {
 	public static void main(String[] args) {
+	//Displaying the program to user
+		System.out.println("Usage of the program\n The program is used to illustrate the access specifiers\n eg java Second");
 		Second s = new Second(); //creating object to Second class
 		FirstAccess fa=new FirstAccess();  //creating object to FirstAccess class
 		System.out.println(fa.b + " " + fa.cube1(110)); //calling public method by using object
