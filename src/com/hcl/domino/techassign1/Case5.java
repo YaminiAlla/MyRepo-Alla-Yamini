@@ -1,4 +1,4 @@
-package com.hcl.domino.techassign1;
+package com.hcl.domino.techassign1.case5;
 
 /**
  * This program illustrates the different ways of initializing the private
