@@ -1,4 +1,4 @@
-package com.hcl.domino.techassign1;
+package com.hcl.domino.techassign1.case2;
 
 import java.util.InputMismatchException;
 
