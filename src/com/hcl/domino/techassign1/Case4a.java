@@ -1,4 +1,4 @@
-package com.hcl.domino.techassign1;
+package com.hcl.domino.techassign1.case4;
 /**
  * This class illustrates the difference between access specifiers
  
