@@ -1,4 +1,4 @@
-package com.hcl.domino.techassign1;
+package com.hcl.domino.techassign1.case1;
 
 /**
  * This class is created for checking the data type and size of the input given
