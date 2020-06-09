@@ -1,5 +1,10 @@
 package com.hcl.domino.techassign2.case2;
-
+/**
+ * Given a matrix of size M*N with only 0s and 1s, provide the options to perform the following
+ * [options like row wise,column wise,diagonal]
+ * @author AllaYamini
+ * @version 1.8
+ */
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -120,7 +125,7 @@ public class Main {
 	/**
 	 * This method is used for processing the column elements in the matrix
 	 * 
-	 * @param matrix
+	 * @param transpose
 	 * @return null
 	 */
 	public static void modifymatc(int mat[][], int M, int N) {
@@ -227,7 +232,7 @@ public class Main {
 	/**
 	 * This method is used for processing the two diagonal elements of the array
 	 * 
-	 * @param matrix
+	 * @param mat
 	 * @return null
 	 */
 	public static void modifymatd(int mat[][], int M, int N) {
